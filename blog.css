@@ -1,0 +1,79 @@
+body{
+    background-image: url("sky-night-star-milky-way-atmosphere-space-1090931-pxhere.com.jpg");
+    padding: 0%;
+    margin: 0%;
+    max-width: 100%;
+    background-size: cover;
+}
+
+#navbar{
+    background-image: linear-gradient(white, rgba(255, 255, 255, 0));
+    margin: 0px;
+    padding: 10px 0px 20px 10px;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: azure;
+    paint-order: stroke fill;
+    position: absolute;
+    z-index: 0;
+    width: 99.33%;
+}
+
+#left-box{
+    margin-left: 20px;
+    padding: 20px;
+    width: 25%;
+    float: left;
+    box-sizing: border-box;
+    position: fixed;
+    margin-top: 25px;
+    text-align: center;
+}
+
+#center-box{
+    padding: 20px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    margin-left: 27%;
+    margin-top: 10%;
+    text-align: left;
+}
+
+#right-box{
+    margin-right: 20px;
+    padding: 20px;
+    width: 19%;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 10%;
+    text-align: center;
+}
+
+#avatar{
+    width: 100%;
+}
+
+.card{
+    background-color: rgba(240, 255, 255, 0.525);
+    padding: 20px;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bold;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: azure;
+    paint-order: stroke fill;
+    img{
+        width: 100%;
+    }
+
+}
+
+mark.pink{
+    color: rgb(255, 86, 170);
+    background: none;
+}
