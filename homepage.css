@@ -2,8 +2,8 @@ body{
     background-image: url("sky-night-star-milky-way-atmosphere-space-1090931-pxhere.com.jpg");
     padding: 0%;
     margin: 0%;
-    max-width: 100%;
     background-size: cover;
+    background-repeat: repeat-y;
     overflow-x: clip;
 }
 
